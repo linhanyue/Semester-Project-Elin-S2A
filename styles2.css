@@ -6,7 +6,7 @@
 
 body {
   color: #333;
-  background-image: url("index bg.png"); /* replace with your file name */
+  background-image: url("indexbg.png"); /* replace with your file name */
   background-size: cover; /* makes the image fill the screen */
   background-position: center; /* centers the image */
   background-attachment: fixed; /* makes it stay still when scrolling */
