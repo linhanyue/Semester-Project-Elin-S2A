@@ -152,6 +152,11 @@ h5 {
   box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
 }
 
+.article-box p {
+  text-align: justify;
+  text-indent: 40px;
+}
+
 .header {
   background-color: #ffffff; /* white box */
   max-width: 1000px; /* limit width for readability */
