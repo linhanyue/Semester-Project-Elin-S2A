@@ -204,3 +204,7 @@ h5 {
   color: #ffcc00;
   transform: scale(1.05);
 }
+
+.articleimg {
+  align: center;
+}
